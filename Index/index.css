@@ -1,0 +1,24 @@
+body {
+text-align: center;
+background‐color: #559955; Color de fondo
+color: #ffffff;
+}
+
+p {
+font-family: sans-serif;
+}
+h1 {
+font-size: 80px;
+font-family: fantasy;
+}
+em {
+font-weight: bold;
+}
+img{
+	text-align: center;
+}
+div {
+	margin: auto;
+    height: 50px;
+    width: 20%;
+}
